@@ -1,19 +1,19 @@
-# 🎧 Queue FM
+# Queue FM
 
 **Queue FM** is a Spotify-powered radio station system that maintains a single, continuously updated playlist. It offers both automated playlist management through [spotify-dj](https://github.com/splinesreticulating/spotify-dj) and manual control via [spotify-jukebox](https://github.com/splinesreticulating/spotify-jukebox).
 
-## 🧰 Components
+## Components
 
 - **[spotify-dj](https://github.com/splinesreticulating/spotify-dj)**: Automatically curates and updates the playlist based on predefined criteria.
 - **[spotify-jukebox](https://github.com/splinesreticulating/spotify-jukebox)**: Allows users to manually add and manage tracks in the playlist.
 
-## 🚀 Features
+## Features
 
 - Seamless integration with Spotify's API for real-time playlist updates.
 - Dual-mode operation: automated DJ and manual jukebox control.
 - Designed for continuous playback, emulating a traditional radio station experience.
 
-## 📌 Getting Started
+## Getting Started
 
 1. **Clone the repositories**:
 
@@ -42,7 +42,7 @@
    npm start
    ```
 
-## 🛠️ Configuration
+## Configuration
 
 - **Environment Variables**:
   - `SPOTIFY_CLIENT_ID`
@@ -51,10 +51,6 @@
 
 Ensure these are set appropriately in both applications.
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License.
-
----
-
-*For more projects and information, visit my [GitHub profile](https://github.com/splinesreticulating).*
